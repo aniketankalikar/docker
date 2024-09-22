@@ -4,6 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/docker.iml" filepath="$PROJECT_DIR$/docker.iml" />
       <module fileurl="file://$PROJECT_DIR$/docker-rest-application/docker-rest-application.iml" filepath="$PROJECT_DIR$/docker-rest-application/docker-rest-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker-multi-container-demo/ear/ear.iml" filepath="$PROJECT_DIR$/docker-multi-container-demo/ear/ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker-multi-container-demo/ejbs/ejbs.iml" filepath="$PROJECT_DIR$/docker-multi-container-demo/ejbs/ejbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker-multi-container-demo/projects/logging/logging.iml" filepath="$PROJECT_DIR$/docker-multi-container-demo/projects/logging/logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker-multi-container-demo/primary-source/primary-source.iml" filepath="$PROJECT_DIR$/docker-multi-container-demo/primary-source/primary-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker-multi-container-demo/projects/projects.iml" filepath="$PROJECT_DIR$/docker-multi-container-demo/projects/projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker-multi-container-demo/servlets/servlet/servlet.iml" filepath="$PROJECT_DIR$/docker-multi-container-demo/servlets/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker-multi-container-demo/servlets/servlets.iml" filepath="$PROJECT_DIR$/docker-multi-container-demo/servlets/servlets.iml" />
     </modules>
   </component>
 </project>

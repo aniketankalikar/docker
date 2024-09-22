@@ -8,10 +8,18 @@
         <option value="$PROJECT_DIR$/docker-rest-application/pom.xml" />
         <option value="$PROJECT_DIR$/volumes-demo/pom.xml" />
         <option value="$PROJECT_DIR$/docker-volumes/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-volumes-all/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-multiple-container-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-multi-container-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-multi-container/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-multi-container/serviceA/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-multi-container/serviceB/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/docker-multi-container-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-multiple-container-demo/pom.xml" />
         <option value="$PROJECT_DIR$/volumes-demo/pom.xml" />
       </set>
     </option>
