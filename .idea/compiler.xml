@@ -3,6 +3,8 @@
   <component name="CompilerConfiguration">
     <excludeFromCompile>
       <directory url="file://$PROJECT_DIR$/docker-multi-container/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/docker-compose-multi-container/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/docker-compose-multicontainer/src/main/resources/archetype-resources" includeSubdirectories="true" />
     </excludeFromCompile>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
@@ -11,6 +13,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="docker-rest-application" />
+        <module name="microservices1" />
         <module name="serviceB" />
         <module name="docker-multi-container" />
         <module name="serviceA" />
@@ -20,6 +23,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="docker-compose-multi-container" target="1.5" />
+      <module name="docker-compose-multicontainer" target="1.8" />
       <module name="docker-multi-container-demo" target="1.5" />
       <module name="docker-multiple-container-demo" target="17" />
       <module name="ear" target="1.5" />
@@ -38,6 +43,7 @@
       <module name="docker-rest-application" options="-parameters" />
       <module name="docker-volumes" options="-parameters" />
       <module name="docker-volumes-all" options="-parameters" />
+      <module name="microservices1" options="-parameters" />
       <module name="serviceA" options="-parameters" />
       <module name="serviceB" options="-parameters" />
       <module name="volumes-demo" options="-parameters" />

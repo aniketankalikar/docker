@@ -14,10 +14,15 @@
         <option value="$PROJECT_DIR$/docker-multi-container/pom.xml" />
         <option value="$PROJECT_DIR$/docker-multi-container/serviceA/pom.xml" />
         <option value="$PROJECT_DIR$/docker-multi-container/serviceB/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-compose-multi-container/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-compose-multicontainer/pom.xml" />
+        <option value="$PROJECT_DIR$/dockercompose-multi-container/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/docker-compose-multi-container/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-compose-multicontainer/pom.xml" />
         <option value="$PROJECT_DIR$/docker-multi-container-demo/pom.xml" />
         <option value="$PROJECT_DIR$/docker-multiple-container-demo/pom.xml" />
         <option value="$PROJECT_DIR$/volumes-demo/pom.xml" />
