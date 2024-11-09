@@ -15,6 +15,7 @@
         <module name="docker-rest-application" />
         <module name="microservices1" />
         <module name="serviceB" />
+        <module name="ordermanagement" />
         <module name="docker-multi-container" />
         <module name="serviceA" />
         <module name="docker-volumes" />
@@ -44,6 +45,7 @@
       <module name="docker-volumes" options="-parameters" />
       <module name="docker-volumes-all" options="-parameters" />
       <module name="microservices1" options="-parameters" />
+      <module name="ordermanagement" options="-parameters" />
       <module name="serviceA" options="-parameters" />
       <module name="serviceB" options="-parameters" />
       <module name="volumes-demo" options="-parameters" />

@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/docker-compose-multi-container/pom.xml" />
         <option value="$PROJECT_DIR$/docker-compose-multicontainer/pom.xml" />
         <option value="$PROJECT_DIR$/dockercompose-multi-container/pom.xml" />
+        <option value="$PROJECT_DIR$/ordermanagement/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
